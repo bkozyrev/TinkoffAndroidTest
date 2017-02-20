@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TinkoffAndroidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TinkoffAndroidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TinkoffAndroidTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TinkoffAndroidTest_main.iml" group="TinkoffAndroidTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TinkoffAndroidTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TinkoffAndroidTest_test.iml" group="TinkoffAndroidTest" />
+    </modules>
+  </component>
+</project>
