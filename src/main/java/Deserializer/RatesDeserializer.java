@@ -1,3 +1,6 @@
+package Deserializer;
+
+import Model.RateObject;
 import com.google.gson.JsonDeserializationContext;
 import com.google.gson.JsonDeserializer;
 import com.google.gson.JsonElement;
@@ -7,9 +10,6 @@ import java.lang.reflect.Type;
 import java.util.Map;
 import java.util.Set;
 
-/**
- * Created by bkozyrev on 20.02.2017.
- */
 public class RatesDeserializer implements JsonDeserializer<RateObject> {
 
     public RateObject deserialize(JsonElement json, Type typeOfT, JsonDeserializationContext context) throws JsonParseException {

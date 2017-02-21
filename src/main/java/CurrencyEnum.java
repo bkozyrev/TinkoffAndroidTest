@@ -1,6 +1,3 @@
-/**
- * Created by bkozyrev on 20.02.2017.
- */
 public enum CurrencyEnum {
 
     AUD("AUD"),

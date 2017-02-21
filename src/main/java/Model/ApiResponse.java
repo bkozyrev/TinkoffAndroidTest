@@ -1,6 +1,5 @@
-/**
- * Created by bkozyrev on 20.02.2017.
- */
+package Model;
+
 public class ApiResponse {
 
     private String base;
